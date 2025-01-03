@@ -294,7 +294,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"name\": \"John Doe Updated\",\n    \"email\": \"john.updated@example.com\",\n    \"phone\": \"9876543210\",\n    \"dob\": \"1990-01-01\",\n    \"photo\": \"profile-updated.jpg\",\n    \"salary\": 85000,\n    \"status\": \"active\",\n    \"departmentId\": 1\n}",
+							"raw": "{\n  \"id\": \"1\",\n  \"name\": \"John Doe Updated\",\n    \"email\": \"john.updated@example.com\",\n    \"phone\": \"9876543210\",\n    \"dob\": \"1990-01-01\",\n    \"photo\": \"profile-updated.jpg\",\n    \"salary\": 85000,\n    \"status\": \"active\",\n    \"departmentId\": 1\n}",
 							"options": {
 								"raw": {
 									"language": "json"
